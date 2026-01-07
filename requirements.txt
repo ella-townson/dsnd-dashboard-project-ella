@@ -8,5 +8,4 @@ pytest
 flake8
 ipython
 
-# Install the local employee_events package
 -e ./python-package
